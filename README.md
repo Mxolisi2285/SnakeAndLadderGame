@@ -42,3 +42,33 @@ Land on a 🪜 ladder? You’ll climb up
 Land on a 🐍 snake? You’ll slide down
 
 Reach exactly 100 to win (if you roll too high, you stay)
+
+🎯 Example Output
+
+🎲 Welcome to Snake and Ladder Game!
+You start at position 1. Reach 100 to win!
+Press Enter to roll the dice...
+
+🎯 You rolled a 6
+🪜 Yay! You climbed a ladder! Up to 25
+📍 Current Position: 25
+
+🎯 You rolled a 5
+🐍 Oh no! You landed on a snake! Down to 2
+📍 Current Position: 2
+
+
+🔧 Ideas for Future Versions
+Multiplayer support (2 players)
+
+ASCII board visualization
+
+Store game history
+
+GUI version (Swing or JavaFX)
+
+
+👨‍💻 Author
+Mxolisi Masina
+
+Java Developer | Software Engineering Enthusiast
